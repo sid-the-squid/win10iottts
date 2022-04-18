@@ -149,7 +149,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\UniversalMediaEngine-develop\UniversalMediaEngine\UniversalMediaEngine.vcxproj">
+    <ProjectReference Include="..\UniversalMediaEngine\UniversalMediaEngine.vcxproj">
       <Project>{81d46002-ec95-4423-bf6e-dbe82ccd55ca}</Project>
       <Name>UniversalMediaEngine</Name>
     </ProjectReference>
